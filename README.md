@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/187980885.svg)](https://zenodo.org/badge/latestdoi/187980885)
+
 # Agent-based models and videogames crossing paths in archaeology: the case of ‘Gaming Artificial Anasazi’
 
 Presentation for the Post-Doc Research Forum, 22 May 2019, at the McDonald Institute for Archaeological Research, University of Cambridge.
